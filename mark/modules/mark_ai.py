@@ -4,8 +4,8 @@ import re
 
 from pyrogram import Client as markai, filters, enums
 from pyrogram.types import Message
-from Mark.data.defaults import Defaults
-from .mark_base import Mark_Base
+from mark.data.defaults import Defaults
+from mark_base import Mark_Base
 from config import Config
 
 
